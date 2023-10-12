@@ -1,0 +1,41 @@
+body {
+    background: black;
+}
+
+p, a {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 2vw;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    padding: 1vw;
+}
+
+.owen {
+    width: 30%;
+    aspect-ratio: 3/4;
+    margin: auto;
+}
+
+.fried-rice {
+    width: 75%;
+}
+
+.side-text {
+    height: 100%;
+    margin: auto;
+}
+
+.course {
+    
+}
